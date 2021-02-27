@@ -1,2 +1,2 @@
 # Mesh Player
-Conveniently perform local operations on existing meshes
+Perform local operations on existing meshes conveniently.
